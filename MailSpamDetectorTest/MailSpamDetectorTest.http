@@ -1,0 +1,6 @@
+@MailSpamDetectorTest_HostAddress = http://localhost:5114
+
+GET {{MailSpamDetectorTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
