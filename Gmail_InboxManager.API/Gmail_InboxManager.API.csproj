@@ -16,4 +16,9 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Gmail_InboxManager.Application\Gmail_InboxManager.Application.csproj" />
+    <ProjectReference Include="..\Gmail_InboxManager.Infrastructure\Gmail_InboxManager.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
