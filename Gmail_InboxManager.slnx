@@ -2,5 +2,5 @@
   <Project Path="Gmail_InboxManager.Application/Gmail_InboxManager.Application.csproj" Id="5f0011f0-0a25-4b6c-92ab-827ca8496da6" />
   <Project Path="Gmail_InboxManager.Domain/Gmail_InboxManager.Domain.csproj" Id="373f4720-3f98-4811-857e-2f6bf12f2124" />
   <Project Path="Gmail_InboxManager.Infrastructure/Gmail_InboxManager.Infrastructure.csproj" Id="efd259ce-c518-4010-b3a5-a26c9301a661" />
-  <Project Path="MailSpamDetectorTest/Gmail_InboxManager.API.csproj" />
+  <Project Path="Gmail_InboxManager.API/Gmail_InboxManager.API.csproj" />
 </Solution>
